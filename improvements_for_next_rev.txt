@@ -1,0 +1,7 @@
+-add wet/dry mixer (this was originally going to be handled on motherboard, but no longer)
+
+-scale CV in (CV in was originally 0V to +3.3V, not 0V to +2.048V, determined by MCP4822 DAC)
+
+-scale feedback CV in the same way
+
+-add small positive offset to feeback CV to offset pn junction
