@@ -5,3 +5,5 @@
 -scale feedback CV in the same way
 
 -add small positive offset to feeback CV to compensate for pn junction of Q5
+
+-flip headers so they are on the bottom of the board
